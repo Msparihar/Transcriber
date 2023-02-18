@@ -1,1 +1,0 @@
-This is an empty folder to temporaily store audio files and do processing on them.
