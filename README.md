@@ -17,7 +17,12 @@ conda create -p venv python==3.10 -y
 conda activate venv/
 ```
 
-### Step 3: Run the application
+### Step 3: Install dependencies
+```
+pip install -r requirements.txt
+```
+
+### Step 4: Run the application
 ```
 flask run app.py
 ```
