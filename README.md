@@ -1,5 +1,20 @@
 ## Youtube Transcriber
 
+YouTube Transcriber is a web application that transcribes YouTube videos into text. It is built with Python, Flask.
+
+To use the application, simply enter the URL of the YouTube video you want to transcribe and click the "Transcribe" button. The application will then generate a transcript of the video, which you can then download or copy and paste into another document.
+
+YouTube Transcriber is a useful tool for anyone who wants to make their YouTube videos more accessible to a wider audience, or who needs to transcribe YouTube videos for research or other purposes.
+
+**Here are some of the benefits of using YouTube Transcriber:**
+
+* Make your YouTube videos more accessible to viewers with hearing disabilities
+* Improve the SEO of your YouTube videos by making them easier to search for
+* Create transcripts of your YouTube videos for blogging, research, or other purposes
+* Easily share transcripts of your YouTube videos on social media or other websites
+
+**Try YouTube Transcriber today and see how easy it is to transcribe your YouTube videos into text!**
+
 ### Software and Tools Requirements
 
 1. [Github Account](https://github.com/)
